@@ -14,6 +14,8 @@ You'll recognize the characters. You'll recognize the 5v5 structure. But the mom
 - Everything Plays Differently
 - Gold gain? Changed. Experience? Adjusted. Creep waves? Modified. Day/night cycle? Different. The economy, pacing, and flow of the game have been rebalanced from the ground up to create a fresh competitive experience.
 
+![omniknight](https://github.com/user-attachments/assets/2bf4726c-7aa4-484b-9c5f-f6def41522e6)
+
 # Current Status
 Early Development
 1. Designing the core systems (gold gain, balance etc..)
@@ -24,5 +26,3 @@ Early Development
 
 # License
 Custom game for Dota 2. All hero models, animations, and core assets remain property of Valve Corporation.
-
-![omniknight](https://github.com/user-attachments/assets/2bf4726c-7aa4-484b-9c5f-f6def41522e6)
