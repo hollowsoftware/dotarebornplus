@@ -14,12 +14,7 @@ You'll recognize the characters. You'll recognize the 5v5 structure. But the mom
 ![omniknight169](https://github.com/user-attachments/assets/fb8f13e2-b21e-451c-af65-f359c0a0f6c7)
 
 # Current Status
-Early Development
-1. Designing the core systems (gold gain, balance etc..)
-2. Prototyping the new map
-3. Creating the first hero ability sets
-4. Establishing the item framework
-5. First playable demo: Coming Q1 2026
+Demo version
 
 # License
 Custom game for Dota 2. All hero models, animations, and core assets remain property of Valve Corporation.
