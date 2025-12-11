@@ -8,11 +8,8 @@ You'll recognize the characters. You'll recognize the 5v5 structure. But the mom
 - Every Hero Has New Abilities
 - Every single hero has been completely redesigned with fresh mechanics and playstyles.
 - The Map Is Rebuilt
-- Same three lanes. Same general structure. But the jungles? Totally different. New camps. New paths. New hiding spots. New neutral bosses beyond Roshan. The tactical landscape is completely fresh.
-- Brand New Items
-- Forget your old item builds. The shop is filled with completely new items with unique actives and passives. Build paths you've never tried. Combos you've never imagined.
+- New Items
 - Everything Plays Differently
-- Gold gain? Changed. Experience? Adjusted. Creep waves? Modified. Day/night cycle? Different. The economy, pacing, and flow of the game have been rebalanced from the ground up to create a fresh competitive experience.
 
 ![omniknight169](https://github.com/user-attachments/assets/fb8f13e2-b21e-451c-af65-f359c0a0f6c7)
 
