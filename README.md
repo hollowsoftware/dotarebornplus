@@ -24,3 +24,5 @@ Early Development
 
 # License
 Custom game for Dota 2. All hero models, animations, and core assets remain property of Valve Corporation.
+
+![omniknight](https://github.com/user-attachments/assets/2bf4726c-7aa4-484b-9c5f-f6def41522e6)
