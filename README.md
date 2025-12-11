@@ -14,7 +14,7 @@ You'll recognize the characters. You'll recognize the 5v5 structure. But the mom
 - Everything Plays Differently
 - Gold gain? Changed. Experience? Adjusted. Creep waves? Modified. Day/night cycle? Different. The economy, pacing, and flow of the game have been rebalanced from the ground up to create a fresh competitive experience.
 
-![omniknight](https://github.com/user-attachments/assets/2bf4726c-7aa4-484b-9c5f-f6def41522e6)
+![omniknight169](https://github.com/user-attachments/assets/fb8f13e2-b21e-451c-af65-f359c0a0f6c7)
 
 # Current Status
 Early Development
